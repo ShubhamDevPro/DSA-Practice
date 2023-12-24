@@ -1,3 +1,4 @@
+package Binary_Search;
 import java.util.Arrays;
 public class binarySearch_2D_Row_Col_Wise {
     public static void main(String[] args){

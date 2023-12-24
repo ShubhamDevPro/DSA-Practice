@@ -1,3 +1,4 @@
+package Binary_Search;
 public class First_LastSortedArray {
   public static void main(String[] args){
 

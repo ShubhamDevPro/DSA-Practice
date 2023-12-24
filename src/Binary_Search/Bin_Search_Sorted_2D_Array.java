@@ -1,7 +1,5 @@
-package com.src;
-
+package Binary_Search;
 import java.util.Arrays;
-
 public class Bin_Search_Sorted_2D_Array {
     public static void main(String[] args) {
         int[][] arr = {

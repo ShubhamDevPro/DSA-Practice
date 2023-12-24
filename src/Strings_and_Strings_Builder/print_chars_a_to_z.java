@@ -1,5 +1,4 @@
 package Strings_and_Strings_Builder;
-
 public class print_chars_a_to_z {
     public static void main(String[] args) {
         StringBuilder series = new StringBuilder();
