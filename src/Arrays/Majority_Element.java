@@ -6,7 +6,7 @@ public class Majority_Element {
         int k = majorityElement(nums);
         System.out.println(k);
     }
-    public int majorityElement(int[] nums) {
+    public static int majorityElement(int[] nums) {
         int i1=nums[0];
         int i2=nums[0];
         int count_i=0;
